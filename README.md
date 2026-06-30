@@ -1,2 +1,2 @@
-flask_autu_system
+flask_auth_system
 full stack python task2
